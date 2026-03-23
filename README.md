@@ -117,6 +117,6 @@ File format:
 ---
 
 
-Anuj Agrawal
-Elvis Lin
+Anuj Agrawal, 
+Elvis Lin, 
 Jeliel Brown
