@@ -24,7 +24,7 @@ All metrics are recorded into CSV files for further analysis and visualization.
 
 ---
 
-## 🚀 How to Run
+
 
 ### 1. Clone the repository
 
@@ -131,7 +131,7 @@ File format:
 
 ---
 
-## 🧹 Features
+
 
 * Collects metrics every time interval
 * Uses real-time system monitoring tools
@@ -140,7 +140,7 @@ File format:
 
 ---
 
-## 📦 Project Structure
+
 
 ```
 apm_tool.sh
@@ -156,7 +156,7 @@ report.docx
 
 ---
 
-## 👤 Author
+
 
 Anuj Agrawal
 Elvis Lin
