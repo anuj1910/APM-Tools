@@ -116,47 +116,6 @@ File format:
 
 ---
 
-## How to Visualize Data
-
-1. Open Excel (or Google Sheets)
-2. Import CSV files
-3. Use **Scatter Plot (with lines)**
-
-### Recommended graphs:
-
-* CPU vs Time (for each APM1–APM6)
-* Network RX/TX vs Time
-* Disk writes vs Time
-* Disk space vs Time
-
----
-
-## Features
-
-* Collects metrics every 5 seconds
-* Uses real-time system monitoring tools
-* Logs structured CSV output
-* Includes cleanup function to terminate all spawned processes
-
----
-
-## Project Structure
-
-```
-apm_tool.sh
-APM1_metrics.csv
-APM2_metrics.csv
-APM3_metrics.csv
-APM4_metrics.csv
-APM5_metrics.csv
-APM6_metrics.csv
-system_metrics.csv
-report.docx
-```
-
----
-
-## 👤 Author
 
 Anuj Agrawal
 Elvis Lin
